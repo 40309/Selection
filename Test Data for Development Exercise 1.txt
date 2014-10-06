@@ -1,0 +1,17 @@
+Test Data for Development Exercise 1:
+
+1) Number: 1
+
+   Answer= January
+
+2) Number: 6
+
+   Answer= June
+
+3) Number: -5
+
+   Answer= You entered a value which is too small.
+
+4) Number: -16
+
+   Answer= The number you entered is an invalid month.
