@@ -104,9 +104,10 @@ Attempt these tasks if you are confident in your understanding but feel you need
 
 1. Write a program that lets the user enter a number between 1 and 12 and displays the month name for that month number.
 
-    The input *3* would therefore display March.
+    The input *3* would therefore display March. **DONE**
 
-2. Write a program that reads in the temperature of water in a container (in Centigrade) and displays a message stating whether the water is frozen, boiling or neither.
+2. Write a program that reads in the temperature of water in a container (in Centigrade) and displays a message stating whether the water is frozen, boiling or neither. **DONE**
+<u> **Make Flowchart**</u>
 3. Write a program that asks the user for the number of hours worked this week and their hourly rate of pay. The program is to calculate the gross pay.
 
     If the number of hours worked is greater than 40, the extra hours are paid at 1.5 times the rate. The program should display an error message if the number of hours worked is not in the range 0 to 60.
@@ -118,6 +119,9 @@ Attempt these tasks if you are confident in your understanding but feel you need
     - 61 to 70 marks - grade C
     - 71 to 80 marks - grade B
     - 81 to 100 marks - grade A
+
+<u> **Make Flowchart**</u>
+**DONE**
 
 ##Stretch and Challenge Exercises
 Attempt these tasks if you feel you have mastered selection and want to tackle tougher problems.

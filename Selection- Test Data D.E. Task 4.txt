@@ -1,0 +1,17 @@
+Test Data for Development Exercise 4:
+
+1) Number: 50
+
+   Answer = Grade E
+
+2) Number: 95
+
+   Answer = Grade A
+
+3) Number: 120
+
+   Answer = The value you entered is invalid, Please Try Again
+
+4) Number: 25
+
+   Answer = Grade U

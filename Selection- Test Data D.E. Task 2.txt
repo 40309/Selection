@@ -1,0 +1,17 @@
+Test Data for Development Exercise 2:
+
+1) Number: 36
+
+   Answer = The state of the water is not frozen nor boiling.
+
+2) Number: -56
+
+   Answer = The state of water is frozen.
+
+3) Number: 99.97
+
+   Answer = The state of the water is not frozen nor boiling.
+
+4) Number: 99.98
+
+   Answer = The state of water is boiling.
