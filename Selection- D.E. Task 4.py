@@ -12,7 +12,6 @@ elif 41 <= mark <= 50:
 elif 51 <= mark <= 60:
     print("Grade D")
 elif 61 <= mark <= 70:
-    
     print("Grade C")
 elif 71 <= mark <= 80:
     print("Grade B")

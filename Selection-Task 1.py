@@ -4,8 +4,6 @@
 
 month = int(input("Please enter a month as a number between 1-12: "))
 
-if month <=0:
-    print("You entered a value which is too small")
 if month == 1:
     print("The month you entered is January.")
 if month == 2:
@@ -30,5 +28,5 @@ if month == 11:
     print("The month you entered is November.")
 if month == 12:
     print("The month you entered is December.")
-elif month >= 13:
+else:
     print("The number you entered is an invalid month.")

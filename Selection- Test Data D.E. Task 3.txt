@@ -1,0 +1,21 @@
+Test Data for Development Exercise 2:
+
+1) Hours Worked: 45
+   Hourly Rate: 2
+
+   Answer = £135
+
+2) Hours Worked: 6
+   Hourly Rate: 6.50
+
+   Answer = £39
+
+3) Hours Worked: 0
+   Hourly Rate: 6.50
+
+   Answer = The number you entered was below '0' or above '60'.
+
+4) Hours Worked: 41
+   Hourly Rate: 10.35
+
+   Answer = £636.25
